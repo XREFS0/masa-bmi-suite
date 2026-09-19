@@ -1,4 +1,4 @@
-# MASA Body Composition & BMI Suite
+﻿# MASA Body Composition & BMI Suite
 
 A desktop biometric analysis utility calculating Body Mass Index (BMI) in compliance with World Health Organization (WHO) classification standards.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Metric unit ingestion (height in centimeters, weight in kilograms).
@@ -38,11 +42,12 @@ python "Body Mass Index Calculator App Using Tkinter in Python/Python_BMI_GUI.py
 
 ```
 .
-├── Body Mass Index Calculator App Using Tkinter in Python
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ Body Mass Index Calculator App Using Tkinter in Python
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
